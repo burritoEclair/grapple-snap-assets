@@ -30,10 +30,10 @@
 </data>
  </layer>
  <objectgroup name="Object Layer 1">
-  <object id="1" name="to_none" type="door" x="32" y="608" width="32" height="64">
+  <object id="1" name="to_test0" type="door" x="32" y="608" width="32" height="64">
    <properties>
     <property name="exitTo" value="right"/>
-    <property name="loc" value="none"/>
+    <property name="loc" value="test0"/>
    </properties>
   </object>
   <object id="3" name="to_test2" type="door" x="1216" y="608" width="32" height="64">
