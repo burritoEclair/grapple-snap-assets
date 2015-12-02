@@ -43,6 +43,9 @@
    </properties>
   </object>
   <object id="5" name="Target" type="target" x="944" y="625">
+   <properties>
+    <property name="targetType" value="test"/>
+   </properties>
    <ellipse/>
   </object>
  </objectgroup>
