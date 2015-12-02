@@ -54,7 +54,7 @@
     <property name="loc" value="test"/>
    </properties>
   </object>
-  <object id="4" name="Target" type="target" x="80" y="1238">
+  <object id="4" name="Target" type="target" x="144" y="1238">
    <properties>
     <property name="targetType" value="testAnimal"/>
    </properties>
