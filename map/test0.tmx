@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="32" tileheight="32" nextobjectid="5">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="32" tileheight="32" nextobjectid="12">
  <tileset firstgid="1" name="tilemap" tilewidth="32" tileheight="32" tilecount="224">
   <image source="../img/tilemap.png" width="1024" height="224"/>
  </tileset>
@@ -43,7 +43,7 @@
 8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,8,0,0,0,0,0,0,8,8,8,8,8,8,8,8,8,0,0,0,0,0,0,0,0,0,0,8,
 8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,8,0,0,0,0,0,0,8,8,8,8,8,8,8,8,8,0,0,0,0,0,0,0,0,0,0,8,
 8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,8,0,0,0,0,0,0,8,8,8,8,8,8,8,8,8,0,0,0,0,0,0,0,0,0,0,8,
-8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,8,0,0,0,0,0,0,8,8,8,8,8,8,8,8,8,0,0,0,0,0,0,0,0,0,0,8,
+8,0,0,0,0,129,130,0,0,0,0,0,0,0,0,0,0,131,132,0,0,0,0,0,0,0,0,0,8,8,8,8,8,8,0,0,0,0,0,0,8,8,8,8,8,8,8,8,8,0,0,0,0,0,0,0,0,0,0,8,
 8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
 </data>
  </layer>
@@ -54,11 +54,21 @@
     <property name="loc" value="test"/>
    </properties>
   </object>
-  <object id="4" name="Target" type="target" x="144" y="1238">
+  <object id="4" name="Target" type="target" x="368" y="1238">
    <properties>
     <property name="targetType" value="testAnimal"/>
    </properties>
    <ellipse/>
+  </object>
+  <object id="8" name="Right Block" type="aiBlock" x="609" y="1155" width="30" height="62">
+   <properties>
+    <property name="block" value="right"/>
+   </properties>
+  </object>
+  <object id="11" name="Left Block" type="aiBlock" x="129" y="1155" width="30" height="62">
+   <properties>
+    <property name="block" value="left"/>
+   </properties>
   </object>
  </objectgroup>
 </map>
