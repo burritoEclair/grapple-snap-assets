@@ -22,7 +22,7 @@
         <key>dataFormat</key>
         <string>json-array</string>
         <key>textureFileName</key>
-        <filename>testAnimal.png</filename>
+        <filename>testEnemy.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -111,7 +111,7 @@
             <enum type="AndEngine::MagFilter">MagLinear</enum>
         </struct>
         <key>dataFileName</key>
-        <filename>testAnimal.json</filename>
+        <filename>testEnemy.json</filename>
         <key>multiPack</key>
         <false/>
         <key>mainExtension</key>
