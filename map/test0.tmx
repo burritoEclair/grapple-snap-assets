@@ -54,9 +54,9 @@
     <property name="loc" value="test"/>
    </properties>
   </object>
-  <object id="4" name="Target" type="target" x="368" y="1238">
+  <object id="4" name="Enemy" type="enemy" x="368" y="1238">
    <properties>
-    <property name="targetType" value="testAnimal"/>
+    <property name="enemyType" value="testEnemy"/>
    </properties>
    <ellipse/>
   </object>
