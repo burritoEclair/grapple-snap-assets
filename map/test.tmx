@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="22" tilewidth="32" tileheight="32" nextobjectid="5">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="22" tilewidth="32" tileheight="32" nextobjectid="6">
  <tileset firstgid="1" name="tilemap" tilewidth="32" tileheight="32" tilecount="224">
   <image source="../img/tilemap.png" width="1024" height="224"/>
  </tileset>
@@ -40,6 +40,12 @@
    <properties>
     <property name="exitTo" value="left"/>
     <property name="loc" value="test2"/>
+   </properties>
+  </object>
+  <object id="5" name="to_antiTest" type="door" x="545" y="127" width="32" height="64">
+   <properties>
+    <property name="exitTo" value="right"/>
+    <property name="loc" value="antiTest"/>
    </properties>
   </object>
  </objectgroup>
