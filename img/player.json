@@ -1,0 +1,180 @@
+{"frames": [
+
+{
+	"filename": "hero_idle0000.png",
+	"frame": {"x":20,"y":76,"w":8,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":8,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_kick0000.png",
+	"frame": {"x":20,"y":76,"w":8,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":8,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_kick0001.png",
+	"frame": {"x":38,"y":64,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_kick0002.png",
+	"frame": {"x":2,"y":56,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_kick0003.png",
+	"frame": {"x":2,"y":2,"w":14,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":14,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_kick0004.png",
+	"frame": {"x":2,"y":18,"w":12,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_kick0005.png",
+	"frame": {"x":20,"y":54,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00000.png",
+	"frame": {"x":20,"y":16,"w":12,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00001.png",
+	"frame": {"x":38,"y":2,"w":12,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00002.png",
+	"frame": {"x":38,"y":52,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00003.png",
+	"frame": {"x":2,"y":44,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00004.png",
+	"frame": {"x":2,"y":68,"w":8,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":8,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00005.png",
+	"frame": {"x":20,"y":42,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00006.png",
+	"frame": {"x":38,"y":40,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00007.png",
+	"frame": {"x":2,"y":78,"w":10,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":14},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00008.png",
+	"frame": {"x":20,"y":2,"w":12,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00009.png",
+	"frame": {"x":2,"y":32,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00010.png",
+	"frame": {"x":20,"y":30,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00011.png",
+	"frame": {"x":20,"y":66,"w":8,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":8,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00012.png",
+	"frame": {"x":38,"y":28,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "hero_run00013.png",
+	"frame": {"x":38,"y":16,"w":10,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "player.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b532daf3c69404a4a0c003f254f5b4ab:1/1$"
+}
+}
